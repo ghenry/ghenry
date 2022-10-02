@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning about Peer to Peer technologies and Network and Service Discovery Protocols / Technologies, as well as [Elixir](https://github.com/elixir-lang/elixir) and [Phoenix framework](https://github.com/phoenixframework/) (especially [LiveView](https://github.com/phoenixframework/phoenix_live_view))
 - 🤔 I’m looking for help with [Terraform](https://www.terraform.io/) - https://github.com/SentryPeer/SentryPeer/issues/12
 - 💬 Ask me about whatever you like
+- I'm is a [Software Heritage Ambassador](https://www.softwareheritage.org/ambassadors/)
 - 📫 How to reach me: Twitter: [@ghenry](https://twitter.com/ghenry) or GitHub: [@ghenry](https://github.com/ghenry)
 
 
