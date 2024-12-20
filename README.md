@@ -2,7 +2,7 @@
 
 
 - 👪 I'm father to [Ben](https://www.bbc.co.uk/programmes/p06rqp6c) and married to Laura
-- 💼 I'm the CIO of [TelcoSwitch](https://telcoswitch.com/) and founder of the recently acquired [SureVoIP](https://www.surevoip.co.uk/) (July 2021), an Internet Telephony Service Provider for which I wrote most of the software that sticks it all together
+- 💼 I run [Ant Networks](https://antnetworks.com/) and founded the acquired [SureVoIP](https://www.surevoip.co.uk/) (July 2021), an Internet Telephony Service Provider for which I wrote most of the software that sticks it all together
 - 🎙️ I'm a podcast host for [Software Engineering Radio](https://www.se-radio.net/team/gavin-henry/)
 - 🧑‍💻 I'm a [Software Heritage Ambassador](https://www.softwareheritage.org/ambassadors/) 
 - 📝 [My blog](https://ghenry.co.uk) raw content lives at https://github.com/ghenry/blog
